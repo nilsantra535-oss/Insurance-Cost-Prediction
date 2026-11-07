@@ -1,4 +1,4 @@
-#  Insurance Cost Prediction[cite: 1]
+#  Insurance Cost Prediction
 
 This machine learning project analyzes a medical insurance dataset to predict individual medical costs based on various demographic and health-related factors.
 
